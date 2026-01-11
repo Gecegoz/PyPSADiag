@@ -163,7 +163,7 @@
       "mask": "1111111111111111",
       "params": [
         { "value": "0000", "name": "0 Ohms" },
-        { "value": "0038", "name": "56 Ohms" },
+        { "value": "0038", "name": "54 Ohms" },
         { "value": "003C", "name": "60 Ohms?" },
         { "value": "003E", "name": "62 Ohms?" },
         { "value": "0040", "name": "64 Ohms" },
